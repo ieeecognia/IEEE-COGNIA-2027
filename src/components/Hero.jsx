@@ -29,7 +29,7 @@ export default function Hero({ onNavClick, onSubPage }) {
 
         <div className="hero-badge">
           <span className="pulse-dot" />
-          <span className="hero-badge-text">A CSE(Data Science), IEM Kolkata Conference</span>
+          <span className="hero-badge-text">A CSE(Data Science), IEM-UEM Conference</span>
         </div>
 
         <p className="hero-pre-title" style={{ marginTop: '20px' }}>

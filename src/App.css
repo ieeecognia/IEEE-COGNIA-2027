@@ -958,7 +958,7 @@ button { border: none; cursor: pointer; font-family: inherit; }
   display: inline-flex; align-items: center; gap: 8px;
   background: var(--white); border: 1px solid var(--red-200);
   padding: 8px 20px; border-radius: 100px;
-  font-size: 12px; font-weight: 600; color: #000000;
+  font-size: 17px; font-weight: 600; color: #000000;
   text-transform: uppercase; letter-spacing: 0.1em;
 }
 .pulse-dot {

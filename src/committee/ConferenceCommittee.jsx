@@ -295,7 +295,7 @@ export default function ConferenceCommittee() {
             <TreeCard
               variant="primary"
               label="Hospitality Chair"
-              name="Prof. Niladri Sekhar Paul"
+              name="Prof. Soma Boral"
               org="Assistant Professor, IEM Kolkata, UEM Kolkata"
             />
 
