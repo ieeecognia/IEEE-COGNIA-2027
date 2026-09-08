@@ -5,11 +5,11 @@ import useActiveSection from '../hooks/useActiveSection'
 
 /* ---------------- Data ---------------- */
 const LOGOS = [
-  { src: '/logo2.png', alt: 'IEM Kolkata' },
-  { src: '/logo3.png', alt: 'UEM Kolkata' },
-  { src: '/logo1.png', alt: 'IEEE Kolkata Section' },
-  { src: '/logo4.png', alt: 'Partner Logo 4' },
-  { src: '/logo5.png', alt: 'Partner Logo 5' },
+  { src: `${import.meta.env.BASE_URL}logo2.png`, alt: 'IEM Kolkata' },
+  { src: `${import.meta.env.BASE_URL}logo3.png`, alt: 'UEM Kolkata' },
+  { src: `${import.meta.env.BASE_URL}logo1.png`, alt: 'IEEE Kolkata Section' },
+  { src: `${import.meta.env.BASE_URL}logo4.png`, alt: 'Partner Logo 4' },
+  { src: `${import.meta.env.BASE_URL}logo5.png`, alt: 'Partner Logo 5' },
 ]
 
 const CONTACT = {

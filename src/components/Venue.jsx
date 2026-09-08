@@ -21,7 +21,7 @@ export default function Venue() {
             rel="noopener noreferrer" 
             className="venue-image-wrapper"
           >
-            <img src="/uem_college.jpg" alt="UEM Kolkata Map Location" />
+            <img src={`${import.meta.env.BASE_URL}uem_college.jpg`} />
           </a>
           <a 
             href="https://iem.edu.in/" 
@@ -29,7 +29,7 @@ export default function Venue() {
             rel="noopener noreferrer" 
             className="venue-image-wrapper"
           >
-            <img src="/iem.jpg" alt="University of Engineering & Management Campus" />
+            <img src={`${import.meta.env.BASE_URL}iem.jpg`} />
           </a>
         </div>
 
